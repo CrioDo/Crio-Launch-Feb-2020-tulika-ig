@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-tulika-ig/precache-manifest.f1ed5023907f2fa4d631da0013630ad7.js"
+  "/Crio-Launch-Feb-2020-tulika-ig/precache-manifest.6493371d3f44d4adb9b65f37bb43fa78.js"
 );
 
 self.addEventListener('message', (event) => {

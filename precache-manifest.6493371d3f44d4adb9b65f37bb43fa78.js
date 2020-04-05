@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef46e7d0054920ffef48e4310669a47c",
+    "revision": "d9a6b70a95c3d94f9061d13b830a1060",
     "url": "/Crio-Launch-Feb-2020-tulika-ig/index.html"
   },
   {
-    "revision": "231180785ab3559f6bb7",
+    "revision": "54e109e1ca360a6e6ad5",
     "url": "/Crio-Launch-Feb-2020-tulika-ig/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "9666f6fca5f70df021fd",
+    "revision": "14a6949a4ca40ffd0a18",
     "url": "/Crio-Launch-Feb-2020-tulika-ig/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "231180785ab3559f6bb7",
-    "url": "/Crio-Launch-Feb-2020-tulika-ig/static/js/2.ed735c8f.chunk.js"
+    "revision": "54e109e1ca360a6e6ad5",
+    "url": "/Crio-Launch-Feb-2020-tulika-ig/static/js/2.1c9b5e23.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-tulika-ig/static/js/2.ed735c8f.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-tulika-ig/static/js/2.1c9b5e23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9666f6fca5f70df021fd",
-    "url": "/Crio-Launch-Feb-2020-tulika-ig/static/js/main.a14067ac.chunk.js"
+    "revision": "14a6949a4ca40ffd0a18",
+    "url": "/Crio-Launch-Feb-2020-tulika-ig/static/js/main.3302c7f3.chunk.js"
   },
   {
     "revision": "64771b5591950d00832e",
